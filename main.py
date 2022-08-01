@@ -1,6 +1,11 @@
+
+
+
+
+
 """
 This is the main loop file for our AutoTube Bot!
-
+irupin
 Quick notes!
 - Currently it's set to try and post a video then sleep for a day.
 - You can change the size of the video currently it's set to post shorts.
